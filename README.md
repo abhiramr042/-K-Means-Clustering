@@ -22,17 +22,6 @@ To segment customers into distinct groups based on their purchasing behavior usi
 - **Optimal K:** 5 (from Elbow Method)
 - **Silhouette Score:** 0.27191023466188324
 
----
-
-## 🖼 Visualizations
-### Elbow Method
-![Elbow Method](screenshots/elbow_method.png)
-
-### Cluster Visualization
-![Cluster Visualization](screenshots/cluster_visualization.png)
-
----
-
 ## 🧪 Libraries Used
 - `pandas`
 - `matplotlib`
